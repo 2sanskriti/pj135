@@ -1,0 +1,36 @@
+body
+{
+  background-size: cover;
+}
+
+#start, #number , #status, p
+{
+    font-size: 17px;
+}
+
+.heading
+{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+}
+
+.footer
+{
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    bottom: 0px;
+    background-color: grey;
+    color: white;
+
+}
+
+canvas
+{
+   border: 3px solid white;
+   border-radius: 10px;
+   box-shadow: 5px 5px 5px white;
+   margin-top: 100px;
+}
